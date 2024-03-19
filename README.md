@@ -1,5 +1,7 @@
 # webpack-critical-js-example
 
+https://github.com/webpack/webpack/discussions/18216
+
 I have a pretty isolated JS file that is critical to run as early as possible (to reflect persisted theme preferences visually).
 
 What is the best way to do this using webpack?
